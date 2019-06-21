@@ -26,6 +26,7 @@ namespace test0621_gitPractice
         {
             button2.Text = "great";
             //master changed
+            //button2 changed
         }
     }
 }
