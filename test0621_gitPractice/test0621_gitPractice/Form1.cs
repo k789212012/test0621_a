@@ -25,6 +25,7 @@ namespace test0621_gitPractice
         private void button2_Click(object sender, EventArgs e)
         {
             button2.Text = "great";
+            //button2 changed
         }
     }
 }
